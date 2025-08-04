@@ -9,19 +9,7 @@ A comprehensive digital marketplace connecting property buyers and sellers throu
 - **Aayush Chawla** - A008
 - **Priya Pandey** - A048
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-
-- [System Modules](#system-modules)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 🏠 Overview
+## Overview
 
 This project is a modern web application that serves as a comprehensive real estate marketplace. Built with microservices architecture, it enables property sellers to list their properties, buyers to search and discover suitable properties, and facilitates seamless communication between parties.
 
